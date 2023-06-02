@@ -1,0 +1,49 @@
+.rbc-off-range-bg { 
+    background-color: azure !important;
+    opacity: 0.5 !important;
+}
+
+.rbc-today, .rbc-today *{
+    background-color: rgb(178, 247, 206) !important;
+}
+
+.rbc-header{
+    background-color: rgb(178, 247, 206) !important;
+}
+
+.rbc-active{
+    background-color: rgb(178, 247, 206) !important;
+}
+
+.rbc-toolbar-label{
+    font-size: larger !important;
+
+}
+
+.rbc-toolbar{
+    background-color: rgb(178, 247, 206) !important;
+}
+
+.rbc-event-label{
+    background-color: rgba(56, 185, 51, 0.877) !important;
+}
+
+.rbc-event-content{
+    background-color:rgba(56, 185, 51, 0.877) !important;
+}
+
+.rbc-event{
+    background-color: rgba(56, 185, 51, 0.877)  !important;
+}
+
+.rbc-current-time-indicator{
+    background-color: rgb(0, 0, 0) !important;
+}
+
+.rbc-event-allday{
+    background-color: rgba(56, 185, 51, 0.877) !important;
+}
+
+.bottom-128 {
+    bottom: 46rem;
+}

@@ -1,6 +1,7 @@
 # BrainWave Academy
 ## 2nd IHC Assignment
 
+Nota: 17
 
 **How to setup this project**
 
